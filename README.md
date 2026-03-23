@@ -28,7 +28,7 @@ Most task-management tools fail the same way: they become another thing to manag
 - **Respect autonomy.** The user decides what support looks like — permanent assistance, graduated scaffolding, or anything in between.
 - **Guard against capture.** The goal is better functioning, not dependency. Bounded utility is the product — not engagement, not relationship, not habit formation.
 
-Read the full philosophy: [Product Vision](PRODUCT-VISION.md)
+Read the full philosophy: [Product Vision](docs/PRODUCT-VISION.md)
 
 ## What It Looks Like
 
@@ -69,18 +69,18 @@ This started as a startup business plan. After adversarial review and honest sel
 
 The startup option isn't closed. But the evidence needs to come first.
 
-Read the full story: [Open Source Path](OPEN-SOURCE-PATH.md)
+Read the full story: [Open Source Path](docs/OPEN-SOURCE-PATH.md)
 
 ## What's in This Repo Today
 
 **This project is in early development.** The repo currently contains founding documents and design principles. Skills and code are being built and tested with one family before public release.
 
 ### Design Documents (Available Now)
-- [Architecture Index](ARCHITECTURE-INDEX.md) — Document hierarchy, status, open/deferred decisions
-- [Product Vision](PRODUCT-VISION.md) — Governing design philosophy, behavioral science framework, evidence map
-- [Open Source Path](OPEN-SOURCE-PATH.md) — How we're building this and why
-- [Interaction Model](INTERACTION-MODEL.md) — Communication design and escalation framework
-- [Designed for Obsolescence](DESIGNED-FOR-OBSOLESCENCE.md) — Evolvability architecture
+- [Architecture Index](docs/ARCHITECTURE-INDEX.md) — Document hierarchy, status, open/deferred decisions
+- [Product Vision](docs/PRODUCT-VISION.md) — Governing design philosophy, behavioral science framework, evidence map
+- [Open Source Path](docs/OPEN-SOURCE-PATH.md) — How we're building this and why
+- [Interaction Model](docs/INTERACTION-MODEL.md) — Communication design and escalation framework
+- [Designed for Obsolescence](docs/DESIGNED-FOR-OBSOLESCENCE.md) — Evolvability architecture
 
 ### OpenClaw Skills (Building — Not Yet Published)
 - `ef-task-tracker` — Task management with EF-aware features (energy levels, step breakdown)
@@ -144,7 +144,7 @@ ExecFunc's design is informed by behavioral science research, adapted for a non-
 - **Collaborative Problem Solving** (Ablon) — experimental reflection mode
 - **Executive Function frameworks** (Dawson & Guare, Diamond) — externalize, compensate, optionally scaffold
 
-See the [Evidence Map](PRODUCT-VISION.md#6-evidence-map) for honest assessment of what we know vs. what we're hypothesizing. We are transparent about the evidence gaps — particularly in anti-capture design, where no RCTs exist.
+See the [Evidence Map](docs/PRODUCT-VISION.md#6-evidence-map) for honest assessment of what we know vs. what we're hypothesizing. We are transparent about the evidence gaps — particularly in anti-capture design, where no RCTs exist.
 
 ## Contributing
 
