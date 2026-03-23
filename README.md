@@ -130,7 +130,7 @@ This project is maintained by one family. Decisions are made by the project foun
 
 - **License:** MIT
 - **Contributions:** Not yet open. The framework needs to stabilize first. Star the repo to follow progress.
-- **Security issues:** Report privately to security@execfunc.ai rather than opening a public issue.
+- **Security issues:** [Open a private security advisory](https://github.com/scipher888/execfunc/security/advisories/new) or email security@execfunc.ai — please don't open a public issue.
 - **Support:** This is a side project maintained by a working parent. No SLA, no guarantees.
 
 ## Behavioral Science Foundation

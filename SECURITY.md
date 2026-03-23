@@ -4,7 +4,8 @@
 
 If you discover a security vulnerability in ExecFunc, please report it privately:
 
-**Email:** [security@execfunc.ai](mailto:security@execfunc.ai)
+1. **GitHub:** [Open a private security advisory](https://github.com/scipher888/execfunc/security/advisories/new) (preferred)
+2. **Email:** [security@execfunc.ai](mailto:security@execfunc.ai)
 
 Please do **not** open a public issue for security vulnerabilities.
 
